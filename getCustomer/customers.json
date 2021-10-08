@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name" : "Shokunbi Abdulfatah",
+    "company" : "VAS2Nets Technologies Limited",
+    "phone"  : "08027618122",
+    "email" : "shokunbiaa@gmail.com"
+  },
+  {
+    "id" : 2,
+    "name" : "Shokunbi Ayodele",
+    "company" : "T & S Laboratory",
+    "phone"  : "07038085121",
+    "email" : "Ayodeleaa@gmail.com"
+  },
+
+  {
+    "id" : 3,
+    "name" : "Shokunbi Adio",
+    "company" : "VAS2Nets Technologies Limited",
+    "phone"  : "08027618122",
+    "email" : "adio@gmail.com"
+  }
+
+
+]
